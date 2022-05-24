@@ -6,4 +6,6 @@ bio: Naomi Keena, architect and interdisciplinary researcher, is Assistant
   Professor at McGill University’s Peter Guo-hua Fu School of Architecture.
 social: []
 superuser: false
+user_groups:
+  - Principal Investigator
 ---

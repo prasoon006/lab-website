@@ -1,8 +1,7 @@
 ---
 title: Hermine Demaël
 avatar_filename: avatar
-interests:
-  - your interests
+interests: []
 social: []
 superuser: false
 user_groups:

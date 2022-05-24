@@ -8,5 +8,7 @@ interests:
   - DEF
 social: []
 superuser: false
+user_groups:
+  - Principal Investigator
 ---
 ABC

@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: naomi.keena@mcgill.ca
+    link: mailto:naomi.keena@mcgill.ca
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/naomikeena

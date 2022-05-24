@@ -34,6 +34,8 @@ education:
       year: 2008
 email: ""
 superuser: true
+user_groups:
+  - Principal Investigator
 highlight_name: true
 ---
 

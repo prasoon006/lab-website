@@ -1,41 +1,32 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+slides: example
+url_pdf: ""
+summary: ""
+authors: []
+url_video: ""
+date: 2022-05-24T17:57:46.822Z
+external_link: ""
+url_slides: ""
+title: DATA HOMEBASE
+subtitle: "CRD WASTE  :  Circular Economy Design towards Zero Waste: Laying the
+  foundation for constructive stakeholder engagement on improving construction,
+  renovation and demolition (CRD) waste management."
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+links:
+  - icon: favicon
+    icon_pack: fab
+    name: Website
+    url: http://datahomebase.research.mcgill.ca
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+url_code: ""
 ---
+The city of Montréal is one of many cities worldwide who strive to cut the amount of waste they generate and advance towards zero waste in an effort to meet the Paris Agreement goals. Construction, renovation and demolition (CRD) waste is a major contributor to urban waste streams but also an area where waste diversion and innovative waste management approaches could deliver significant reductions in waste. One such promising approach is that of circular economy which envisions a future where CRD waste is designed-out of the built environment by keeping construction materials in use. This research project seeks to answer three questions: (1) How best can CRD waste be eliminated?; (2) Which circular economy principles and methods could be effective in ensuring sustainable CRD material management and implementation for Montréal?; and (3) What kind of stakeholder partnerships are necessary to advance towards zero CRD waste? 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+These questions are in keeping with key principles outlined in Montréal's master plan, titled « Montréal, objectif zéro déchet », to guide and enable CRD waste recovery. These principles involve (1) stimulating a circular economy and (2) mobilizing relevant stakeholders. To advance these principles, accessible and reliable data on the current status of CRD waste in Montréal is necessary. However, existing and emerging literature in the area of circular waste management is typically siloed, disconnected and fragmented making it difficult to access and therefore, to assist with informed, evidence-based decision-making. Data visualization offers a powerful potential means to create engagement with this data by relevant stakeholders. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+However, before we can visualize and invite engagement with the relevant data we must first collect and organize it. This project will collect pilot data through a variety of methods: (1) a detailed literature review and a series of surveys and semi-structured interviews with policymakers, designers, contractors, end-of-life contractors, waste haulers, reuse organizations, developers and citizen groups; (2) life cycle assessment (LCA) modeling; (3) mapping of the collected data to the internationally recognized United Nations Sustainable Development Goals (SDGs) framework; and (4) compilation of key circular design principles. The collected data will be integrated and disseminated via an original prototype, named Circular CRD, using new forms of data visualization. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Advancing towards zero CRD waste in Montréal will require the input of multiple stakeholders. This project aims to deliver an initial but vital first step in the collection, integration and dissemination of data via a novel interactive data visualization prototype to (1) highlight key circular economy measures to enable sustainable material management and (2) stimulate relevant stakeholders through engagement and interaction with the data. In short, this project acts as a springboard in the development of a new research avenue which explores the promising potential of using data visualization as a means to engage partnerships and enable interdisciplinary research towards facilitating a circular, more sustainable, built environment.

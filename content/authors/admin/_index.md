@@ -1,28 +1,26 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Naomi Keena
+role: Assistant Professor
+avatar_filename: naomikeena.jpg
+bio: Naomi Keena, architect and interdisciplinary researcher, is Assistant
+  Professor at McGill University’s Peter Guo-hua Fu School of Architecture.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: naomi.keena@mcgill.ca
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/naomikeena
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=3wc5-tsAAAAJ&hl=en
+organizations:
+  - name: McGill University
+    url: https://www.mcgill.ca
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -34,44 +32,20 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+email: ""
+superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Keena’s research focuses on broadening the space and time upon which we consider architectural and urban design, to understand both the work of the techno-sphere in constructing our urban environments and that of the geo-biosphere in sustaining such development. She combines life cycle approaches to design with data visualization and computational techniques as a means to assess socio-ecological factors in architecture and to transform complex data streams into organized knowledge. Keena has published and presented her research widely in the areas of architecture, data visualization, life cycle approaches and circular economy, design-driven interdisciplinary research, and environmental policy. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Her recent scholarship on circular economy in the built environment contributed to the UN One Planet Network, Sustainable Building and Construction (SBC) Programme’s ‘Global State of Play: Circularity in the Built Environment’ 2020 report where she authored the regional report for North America. She has published her research in conference proceedings, peer-reviewed journals, book chapters and research reports including: the AIA/ACSA Intersections Research Conference: Carbon; World Sustainable Built Environment conference; the Journal of Ecological Modelling; the Journal of Electronic Imaging; a book chapter in ‘Embodied Energy and Design’ as well as research reports for the ENEL foundation and UN Environment. 
+
+Keena’s research has led to the development of many data and computational frameworks. One such framework is Clark’s Crow, a parametric tool that aims to promote awareness of the impact of different architectural design options through a biophysically-based ecological accounting method in the early stages of design-development. Working in an interdisciplinary realm, Keena co-founded another such framework named SEVA (Socio-Ecological Visual Analytics), a proposed new conceptual network of analytical techniques designed to quantify, visualize, characterize, and communicate socio-ecological factors within our built environments. Her doctoral research on SEVA was part of a large interdisciplinary effort named “Data Journey” which received three grant awards from the Bill and Melinda Gates Foundation and was showcased at the international Grand Challenges meetings in New Delhi, London, and Washington D.C. Currently, SEVA technology is used by amongst others, the UN Environment’s World Environment Situation Room and the UNCCD Great Green Wall project and was showcased at the 2020 World Economic Forum. 
+
+At McGill, Keena currently teaches in the third-year design studio. The primary aim of her design pedagogy is to bring a shift towards ecosystem design thinking through a set of courses, seminars and studios, layered with the diversity of interdisciplinary and systems thinking. She has previously taught environmental design, advanced graduate studio and PhD seminars at Yale School of Architecture and undergraduate studios and graduate level computational design modules at the School of Architecture, University of Sheffield, UK. Keena has also mentored computer science and architecture students through the undergraduate research program at RPI. 
+
+Prior to joining McGill, Keena was a scientific researcher and postdoctoral associate at Yale Center for Ecosystems in Architecture (Yale CEA), and lecturer at the Yale School of Architecture. As a founding member of Yale CEA, Keena worked on numerous research projects in the areas of data visualization and immersive environments as well as biomaterials and circular economies, and represented the center at numerous international events including the UN Habitat 10th World Urban Forum, Abu Dhabi. At Yale CEA, she completed, in collaboration with Gray Organschi Architects, UN Environment and UN Habitat, the Ecological Living Module (ELM) to address the challenges of both climate change migration and the need for affordable housing in the face of rapid urbanization. This ecological modular home was showcased on the UN Plaza in NYC during the High-Level Political Forum to demonstrate how onsite clean energy, water, indoor air quality, urban micro-farming, bio-based renewable materials, and waste management could be integrated into the housing unit itself. The ELM won several awards, including Architect Magazine’s Residential Architect Design Award in 2018. Keena’s post-doctoral research on data visualization contributed to a body of work including the design and development of Yale CEA’s BEEM lab immersive visualization environment at Yale School of Architecture as well as serving as track chair for Immersive Visualizations at IEEE Games, Entertainment and Media (GEM) Conference 2019, Yale University. 
+
+She holds a professional architecture degree from University College Dublin, Ireland, a M.Sc. Arch. from Pratt Institute, a post-professional MArch II degree in Environmental Parametrics from Rensselaer Polytechnic Institute (RPI), and a Ph.D. in Architectural Sciences from the Center for Architecture Science and Ecology (CASE), RPI. Prior to her Ph.D. studies, Keena worked in professional practice with internationally renowned firms in both the US and Europe including Grafton Architects in Dublin. Keena is a Fulbright Fellowship recipient.

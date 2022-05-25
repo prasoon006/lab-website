@@ -8,8 +8,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "TRACE Lab"
+title = ""
 subtitle = ""
+css_style="font-family:Nanum Myeongjo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,6 +24,8 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
+
+  
   
   # Background gradient.
   gradient_start = "#00021e"
@@ -42,18 +45,21 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["300px", "0", "300px", "0"]
+  padding = ["250px", "0", "270px", "0"]
   
 
 [advanced]
  # Custom CSS. 
- css_style = "[/style.css]"
+ css_style = "font-family:Nanum Myeongjo"
  
  # CSS class.
  css_class = "check1"
 +++
 
 
+
+<div style="align:center; font-size:100px; text-align:center; font-family:Odibee Sans; ">TRACE Lab
+</div>
 
 
 

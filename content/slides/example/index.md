@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: TISEDTALKS Series - Circular Economy and the Built Environment - From Housing to Data 
 authors: []
 tags: []
 categories: []

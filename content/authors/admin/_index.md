@@ -23,6 +23,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3wc5-tsAAAAJ&hl=en
+  - icon: user
+    icon_pack: fas
+    link: https://www.mcgill.ca/architecture/naomi-keena
+
+
+    
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca

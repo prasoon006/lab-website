@@ -5,9 +5,14 @@ avatar_filename: avatar.jpg
 bio: Naomi Keena, architect and interdisciplinary researcher, is Assistant
   Professor at McGill University’s Peter Guo-hua Fu School of Architecture.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Architecture and Design
+  - Land Management
+  - Architectural Conception
+  - Environmental Design
+  - Social and Cultural
+  - Factors of Environmental Protection
+  - Sustainable Development
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,15 +28,25 @@ organizations:
     url: https://www.mcgill.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctorate, Doctor of Philosophy, Architectural Sciences
+      institution:  Rensselaer Polytechnic Institute
+      year: 2017
+    - course: Master's non-Thesis, Masters of Architecture II (Post-Professional), Architectural Sciences
+      institution: Rensselaer Polytechnic Institute
+      year: 2014
+    - course: Master's Thesis, Master of Science in Architecture, Architecture
+      institution: The Pratt Institute
+      year: 2010
+
+    - course: Bachelor's Honours, Bachelors in Architecture, Architecture
+      institution:  University College, Dublin
+
+      year: 2005
+    - course: Bachelor's, Bachelors in Architectural Science, Architecture
+      institution:  University College, Dublin
+      year: 2002
+
+
 email: ""
 superuser: true
 user_groups:

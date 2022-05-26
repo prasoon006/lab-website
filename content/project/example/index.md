@@ -12,7 +12,23 @@ subtitle: "CRD WASTE  :  Circular Economy Design towards Zero Waste: Laying the
   foundation for constructive stakeholder engagement on improving construction,
   renovation and demolition (CRD) waste management."
 tags:
-  - Deep Learning
+  - Architecture
+  - Built and urban ecologies
+  - circular economy 
+  - circular built environments 
+  - data visualization 
+  - environmental design
+  - life cycle thinking and analysis
+  - socio-ecological design
+  - sustainable development
+  - visual analytics
+  - Architectural Conception
+  - Environmental Design
+  - Environment Dynamics
+  - Social and Cultural
+  - Factors of Environmental 
+  - Protection
+  - Sustainable Development
 links:
   - icon: favicon
     icon_pack: fab

@@ -1,12 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'Biomaterials Report'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -29,10 +28,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Report- Biomaterials Supporting the Transition to a Circular Built Environment in the Global South
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Report- Biomaterials Supporting the Transition to a Circular Built Environment in the Global South
 
 tags: []
 
@@ -48,7 +47,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://www.architecture.yale.edu/about-the-school/news/biomaterials-supporting-transition-circular-environment-global-south'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -65,23 +64,19 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Building construction materials represent 11% of global carbon emissions and 28% of the annual buildings related CO2 emissions, and yet, the demand for construction materials continues to grow, especially in the rapidly urbanizing Global South. Biomaterials offer a key opportunity for decarbonizing the buildings and construction sector, through transitioning from current linear, extractive, and toxic construction practices towards circular, bio-based, renewable materials and construction methods for a sustainable future. While this transition has the potential to drastically reduce both the need for natural resources and the carbon footprint of urban growth, policy intervention is required to enable the sustainable development of biomaterials, contributing to 10 of the 17 SDGs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+To access the report, please  <a href='https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&fit=max' >  click here </a>.

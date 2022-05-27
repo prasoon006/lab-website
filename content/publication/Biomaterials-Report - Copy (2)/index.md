@@ -1,5 +1,5 @@
 ---
-title: ' Circular Economy in the Built Environment'
+title: 'Biomaterials Report'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Keena, N., & Friedman, A. (2022). Circular Economy in the Built Environment- Towards Housing Affordability and Sustainability. In W. Leal Filho (Ed.), Handbook of Sustainability Science in the Future- Policies, Technologies, and Education by 2050. Cham- Springer International Publishing. (In Press)
+abstract: Report- Biomaterials Supporting the Transition to a Circular Built Environment in the Global South
 
 # Summary. An optional shortened abstract.
-summary: Keena, N., & Friedman, A. (2022). Circular Economy in the Built Environment- Towards Housing Affordability and Sustainability. In W. Leal Filho (Ed.), Handbook of Sustainability Science in the Future- Policies, Technologies, and Education by 2050. Cham- Springer International Publishing. (In Press)
+summary: Report- Biomaterials Supporting the Transition to a Circular Built Environment in the Global South
 
 tags: []
 
@@ -47,7 +47,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://meteor.springer.com/container/contribute.jsf?id=221440'
+url_project: 'https://www.architecture.yale.edu/about-the-school/news/biomaterials-supporting-transition-circular-environment-global-south'
 url_slides: ''
 url_source: ''
 url_video: ''

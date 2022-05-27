@@ -57,7 +57,7 @@ email: ""
 superuser: true
 user_groups:
   - Principal Investigator
-highlight_name: true
+highlight_name: false
 ---
 
 

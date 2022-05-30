@@ -6,7 +6,14 @@ bio: Dr. Friedman’s research interests focus on factors which influence the
   design and implementation of affordable and sustainable building practices at
   the unit and community levels, including market acceptance, construction, and
   resource efficiency
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:avi.friedman@mcgill.ca
+
+  - icon: user
+    icon_pack: fas
+    link: https://www.mcgill.ca/architecture/avi-friedman
 superuser: false
 user_groups:
   - Members

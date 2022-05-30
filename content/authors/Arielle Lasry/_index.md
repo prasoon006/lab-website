@@ -1,5 +1,5 @@
 ---
-title: Hermine Demaël
+title: Arielle Lasry
 avatar_filename: avatar
 interests: []
 social: []

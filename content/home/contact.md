@@ -15,19 +15,22 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
+
+  # For Captcha
+  # https://www.google.com/recaptcha/admin/create
+
   # Email form provider
   form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+    provider: formspree
+    formspree: 
+      id: xdobbjjv
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
   # Contact details (edit or remove options as required)
   email: naomi.keena@mcgill.ca
   address:
-    street: Room 201 Macdonald-Harrington Building 815 Sherbrooke Street West Montreal, Quebec
+    street: Room 305 Macdonald-Harrington Building 815 Sherbrooke Street West Montreal, Quebec
 
 
     postcode: 'H3A 0C2'

@@ -10,8 +10,8 @@ url_slides: ""
 title: Sustainability Housing in a Circular Economy
 subtitle: "This is the subtitle"
 tags:
-  - Architecture
-  - Built and urban ecologies
+  - architecture
+  - built and urban ecologies
 links:
   - icon: favicon
     icon_pack: fab

@@ -6,11 +6,9 @@ bio: Naomi Keena, architect and interdisciplinary researcher, is Assistant
   Professor at McGill University’s Peter Guo-hua Fu School of Architecture.
 interests:
   - Architecture and Design
-  - Land Management
-  - Architectural Conception
-  - Environmental Design
-  - Social and Cultural
-  - Factors of Environmental Protection
+  - Socio-ecological  Design
+  - Data Visulisation
+  - Circular Economy
   - Sustainable Development
 
 social:
@@ -34,23 +32,11 @@ organizations:
     url: https://www.mcgill.ca
 education:
   courses:
-    - course: Doctorate, Doctor of Philosophy, Architectural Sciences
-      institution:  Rensselaer Polytechnic Institute
-      year: 2017
-    - course: Master's non-Thesis, Masters of Architecture II (Post-Professional), Architectural Sciences
-      institution: Rensselaer Polytechnic Institute
-      year: 2014
-    - course: Master's Thesis, Master of Science in Architecture, Architecture
-      institution: The Pratt Institute
-      year: 2010
-
-    - course: Bachelor's Honours, Bachelors in Architecture, Architecture
-      institution:  University College, Dublin
-
-      year: 2005
-    - course: Bachelor's, Bachelors in Architectural Science, Architecture
-      institution:  University College, Dublin
-      year: 2002
+    - course:  Ph.D. (Architectural Sciences)
+    - course: M.Arch.II (Architectural Sciences)
+    - course: M.Sc.(Architecture)
+    - course: B.Arch.(Architecture)
+    - course: B.Sc.(Architecture)
 
 
 email: ""

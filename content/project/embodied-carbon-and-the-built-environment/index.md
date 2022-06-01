@@ -10,8 +10,8 @@ url_slides: ""
 title: Embodied Carbon & the Built Environment
 subtitle: "This is the subtitle"
 tags:
-  - Architecture
-  - Built and urban ecologies
+  - architecture
+  - built and urban ecologies
   - circular economy 
  
 links:

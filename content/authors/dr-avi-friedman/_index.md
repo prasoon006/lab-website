@@ -16,7 +16,7 @@ social:
     link: https://www.mcgill.ca/architecture/avi-friedman
 superuser: false
 user_groups:
-  - Members
+  - NotMembers
 ---
 <!--StartFragment-->
 

@@ -1,8 +1,12 @@
 ---
 title: "Madeline Mussio "
+role: "Research Assistant"
 avatar_filename: avatar
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:''
 superuser: false
 user_groups:
-  - Researchers
+  - Members
 ---

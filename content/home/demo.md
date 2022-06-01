@@ -1,66 +1,54 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+---
+widget: slider 
+weight: 1  
+active: true
+  # Publish this section?
+headless: true 
+ # This file represents a page section.
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
 
-title = ""
-subtitle = ""
-css_style="font-family:Nanum Myeongjo"
+content:
+  slides:
+    - title: 
+      content: 
+      align: left
+      background:
+        position: center
+        color: '#000000'
+        brightness: 0.7
+        media: slider-1.png
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  
-  
-  # Background gradient.
-  gradient_start = "#00021e"
-  gradient_end = "#00021e"
-
- 
-  
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["250px", "0", "270px", "0"]
-  
-
-[advanced]
- # Custom CSS. 
- css_style = "font-family:Nanum Myeongjo"
- 
- # CSS class.
- css_class = "check1"
-+++
+    - title: TRACE Lab
+      content: Think-tank and Research in Architecture and Circular Economy lab
+      align: center
+      background:
+        position: right
+        color: '#000000'
+        brightness: 0.7
+        # media: icon.png
+        size: cover
+    
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#000000'
+        brightness: 0.5
+        # media: icon.png
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
 
 
-
-<div style="align:center; font-size:100px; text-align:center; font-family:Odibee Sans; ">TRACE Lab
-</div>
-
-
-
-
+---

@@ -12,7 +12,7 @@ education:
   courses:
     - course: (incoming) M.Arch (AP)
       institution:  Princeton University
-    - course: B.Sc. (Architecture)
+    - course: B.Sc. (Architecture) 
       institution: McGill University
 
 
@@ -25,7 +25,7 @@ social:
 
 superuser: false
 user_groups:
-  - Researchers
+  - Members
 ---
 
 
@@ -37,5 +37,6 @@ In parallel, I also collaborate with MOS Architects, based in NYC.
 
 
 Currently Working on the projects : 
-<a href='http://localhost:1313/project/data-homebase/'  >Data Homebase </a>
+<a href='https://deft-stroopwafel-a0d849.netlify.app/project/data-homebase'  >Data Homebase </a>, 
+<a href='https://deft-stroopwafel-a0d849.netlify.app/project/circular-crd'  > Circular CRD</a>
 </br>

@@ -10,21 +10,21 @@ url_slides: ""
 title: DATA HOMEBASE
 subtitle: "A prototype visualizing Canada’s housing characteristics to foster a circular economy"
 tags:
-  - architecture
-  - built and urban ecologies
-  - circular economy 
-  - circular built environments 
-  - data visualization 
-  - environmental design
-  - life cycle thinking and analysis
-  - socio-ecological design
-  - sustainable development
-  - visual analytics
-  - architectural conception
-  - environmental Design
-  - environment Dynamics
-  - social and cultural
-  - sustainable sevelopment
+  - Architecture
+  - Built and Urban Ecologies
+  - Circular Economy 
+  - Circular Built Environments 
+  - Data Visualization 
+  - Environmental Design
+  - Life Cycle Thinking and Analysis
+  - Socio-Ecological Design
+  - Sustainable Development
+  - Visual Analytics
+  - Architectural Conception
+  - Environmental Design
+  - Environment Dynamics
+  - Social and Cultural
+  - Sustainable Development
 links:
   - icon: favicon
     icon_pack: fab

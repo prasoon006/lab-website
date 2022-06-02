@@ -10,15 +10,15 @@ url_slides: ""
 title: Sustainability Housing in a Circular Economy
 subtitle: "This is the subtitle"
 tags:
-  - architecture
-  - built and urban ecologies
+  - Architecture
+  - Built and urban Ecologies
 links:
   - icon: favicon
     icon_pack: fab
     name: Website
-    url: http://datahomebase.research.mcgill.ca
+    url: 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 url_code: ""
 ---

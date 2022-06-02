@@ -22,11 +22,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
 abstract: Keena, N., & Friedman, A. (2022). Circular Economy in the Built Environment- Towards Housing Affordability and Sustainability. In W. Leal Filho (Ed.), Handbook of Sustainability Science in the Future- Policies, Technologies, and Education by 2050. Cham- Springer International Publishing. (In Press)
 
@@ -47,7 +47,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://meteor.springer.com/container/contribute.jsf?id=221440'
+# url_project: 'https://meteor.springer.com/container/contribute.jsf?id=221440'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -79,4 +79,4 @@ Building construction materials represent 11% of global carbon emissions and 28%
 
 Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.
 
-To access the report, please  <a href='https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&fit=max' >  click here </a>.
+<!-- To access the report, please  <a href='https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&fit=max' >  click here </a>. -->

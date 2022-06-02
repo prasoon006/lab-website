@@ -10,15 +10,15 @@ url_slides: ""
 title: Embodied Carbon & the Built Environment
 subtitle: "This is the subtitle"
 tags:
-  - architecture
-  - built and urban ecologies
-  - circular economy 
+  - Architecture
+  - Built and urban Ecologies
+  - Circular Economy 
  
 links:
   - icon: favicon
     icon_pack: fab
     name: Website
-    url: http://datahomebase.research.mcgill.ca
+    url: 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart

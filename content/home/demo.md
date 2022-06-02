@@ -19,36 +19,36 @@ content:
   slides:
     - title: 
       content: 
-      align: left
+      align: center
       background:
         position: center
         color: '#000000'
-        brightness: 0.7
+        brightness: 1
         media: slider-1.png
 
-    - title: TRACE Lab
-      content: Think-tank and Research in Architecture and Circular Economy lab
+    - title: 
+      content:
       align: center
       background:
-        position: right
+        position: center
         color: '#000000'
-        brightness: 0.7
-        # media: icon.png
+        brightness: 1
+        media: slider-22.png
         size: cover
     
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: 
+      content: 
       align: right
       background:
         position: center
         color: '#000000'
-        brightness: 0.5
-        # media: icon.png
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        brightness: 1
+        media: slider-3.png
+      # link:
+      #   icon: graduation-cap
+      #   icon_pack: fas
+      #   text: 
+      #   url: ../contact/
 
 
 ---

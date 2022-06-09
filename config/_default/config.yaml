@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Trace Lab # Website name
-baseURL: 'http://127.0.0.1:5501/' # Website URL
+baseURL: 'https://trace.lab.mcgill.ca/' # Website URL
 
 ############################
 ## LANGUAGE

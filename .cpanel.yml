@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/www/tracelab/public_html/
-    - /bin/cp -R public $DEPLOYPATH
+    - export DEPLOYPATH=/public_html/
+    - /bin/cp public $DEPLOYPATH

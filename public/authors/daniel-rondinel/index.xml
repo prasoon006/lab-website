@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Rondinel  | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/daniel-rondinel/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/daniel-rondinel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Rondinel </description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/daniel-rondinel/avatar_hu726b54993e55845f1e67facd29cca81c_5766000_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Daniel Rondinel </title>
+      <link>http://127.0.0.1:5501/authors/daniel-rondinel/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socio-Ecological Design | Trace Lab</title>
+    <link>http://127.0.0.1:5501/tag/socio-ecological-design/</link>
+      <atom:link href="http://127.0.0.1:5501/tag/socio-ecological-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Socio-Ecological Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 17:57:46 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1:5501/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
+      <title>Socio-Ecological Design</title>
+      <link>http://127.0.0.1:5501/tag/socio-ecological-design/</link>
+    </image>
+    
+    <item>
+      <title>DATA HOMEBASE</title>
+      <link>http://127.0.0.1:5501/project/data-homebase/</link>
+      <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
+      <guid>http://127.0.0.1:5501/project/data-homebase/</guid>
+      <description>&lt;p&gt;One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste.&lt;/p&gt;
+&lt;p&gt;However, effective CE decision-making requires robust, building data. Unfortunately, this is currently scattered and lacks standardization.&lt;/p&gt;
+&lt;p&gt;To overcome this barrier, for Round 1 of the Housing Supply Challenge, McGill University has proposed to develop ‘housing passports’ (HP) - standardized digital descriptions of residential building characteristics.&lt;/p&gt;
+&lt;p&gt;Each HP will represent different residential typologies based on analysis of existing building stock. Through a new web-based, data visualization prototype named Data Homebase, HP information will be organized, semantically linked, and visualized in a manner that makes it easily accessible to a wide variety of housing stakeholders, from building sector, to financial and policymaking actors. For example, HPs could help banks complete property assessments and could support cities with asset management of government housing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cmhc-schl.gc.ca/en/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-supply-challenge/round-1-housing-supply-challenge/data-driven-funding-recipients#MUDH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cmhc-schl.gc.ca/en/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-supply-challenge/round-1-housing-supply-challenge/data-driven-funding-recipients#MUDH&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

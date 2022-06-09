@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasoon Jain  | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/prasoon-jain/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/prasoon-jain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prasoon Jain </description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/prasoon-jain/avatar_hu56477a8834e8de6979501de3b3398581_72716_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Prasoon Jain </title>
+      <link>http://127.0.0.1:5501/authors/prasoon-jain/</link>
+    </image>
+    
+  </channel>
+</rss>

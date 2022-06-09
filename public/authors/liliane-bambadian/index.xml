@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liliane Bambadian | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/liliane-bambadian/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/liliane-bambadian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liliane Bambadian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/liliane-bambadian/avatar_hue075369c23562139338768d84afff295_1455074_270x270_fill_lanczos_center_3.png</url>
+      <title>Liliane Bambadian</title>
+      <link>http://127.0.0.1:5501/authors/liliane-bambadian/</link>
+    </image>
+    
+  </channel>
+</rss>

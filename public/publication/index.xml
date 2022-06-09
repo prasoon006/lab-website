@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Trace Lab</title>
+    <link>http://127.0.0.1:5501/publication/</link>
+      <atom:link href="http://127.0.0.1:5501/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1:5501/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
+      <title>Publications</title>
+      <link>http://127.0.0.1:5501/publication/</link>
+    </image>
+    
+    <item>
+      <title>Biomaterials Report</title>
+      <link>http://127.0.0.1:5501/publication/biomaterials-report/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:5501/publication/biomaterials-report/</guid>
+      <description>&lt;p&gt;Building construction materials represent 11% of global carbon emissions and 28% of the annual buildings related CO2 emissions, and yet, the demand for construction materials continues to grow, especially in the rapidly urbanizing Global South. Biomaterials offer a key opportunity for decarbonizing the buildings and construction sector, through transitioning from current linear, extractive, and toxic construction practices towards circular, bio-based, renewable materials and construction methods for a sustainable future. While this transition has the potential to drastically reduce both the need for natural resources and the carbon footprint of urban growth, policy intervention is required to enable the sustainable development of biomaterials, contributing to 10 of the 17 SDGs.&lt;/p&gt;
+&lt;p&gt;Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.&lt;/p&gt;
+&lt;p&gt;To access the report, please  &lt;a href=&#39;https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&amp;fit=max&#39; &gt;  click here &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Circular Economy in the Built Environment</title>
+      <link>http://127.0.0.1:5501/publication/circular-economy-in-the-built-environment/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:5501/publication/circular-economy-in-the-built-environment/</guid>
+      <description>&lt;p&gt;Building construction materials represent 11% of global carbon emissions and 28% of the annual buildings related CO2 emissions, and yet, the demand for construction materials continues to grow, especially in the rapidly urbanizing Global South. Biomaterials offer a key opportunity for decarbonizing the buildings and construction sector, through transitioning from current linear, extractive, and toxic construction practices towards circular, bio-based, renewable materials and construction methods for a sustainable future. While this transition has the potential to drastically reduce both the need for natural resources and the carbon footprint of urban growth, policy intervention is required to enable the sustainable development of biomaterials, contributing to 10 of the 17 SDGs.&lt;/p&gt;
+&lt;p&gt;Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.&lt;/p&gt;
+&lt;!-- To access the report, please  &lt;a href=&#39;https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&amp;fit=max&#39; &gt;  click here &lt;/a&gt;. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Journal of Industrial Ecology</title>
+      <link>http://127.0.0.1:5501/publication/journal-of-industrial-ecology-copy/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:5501/publication/journal-of-industrial-ecology-copy/</guid>
+      <description>&lt;p&gt;Raugei, M., Keena, N., Novelli, N., Aly Etman, M., &amp;amp; Dyson, A. (2021). Life cycle assessment of an ecological living module equipped with conventional rooftop or integrated concentrating photovoltaics. Journal of Industrial Ecology, 25(5), 1207-1221.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal of Industrial Ecology</title>
+      <link>http://127.0.0.1:5501/publication/journal-of-industrial-ecology/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:5501/publication/journal-of-industrial-ecology/</guid>
+      <description>&lt;p&gt;Raugei, M., Keena, N., Novelli, N., Aly Etman, M., &amp;amp; Dyson, A. (2021). Life cycle assessment of an ecological living module equipped with conventional rooftop or integrated concentrating photovoltaics. Journal of Industrial Ecology, 25(5), 1207-1221.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

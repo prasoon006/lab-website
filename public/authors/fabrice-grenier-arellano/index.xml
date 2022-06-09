@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabrice Grenier Arellano | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/fabrice-grenier-arellano/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/fabrice-grenier-arellano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabrice Grenier Arellano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/fabrice-grenier-arellano/avatar_hucab52a63c61d6007db53d1de30676d76_3921363_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fabrice Grenier Arellano</title>
+      <link>http://127.0.0.1:5501/authors/fabrice-grenier-arellano/</link>
+    </image>
+    
+  </channel>
+</rss>

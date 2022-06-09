@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arielle Lasry | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/arielle-lasry/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/arielle-lasry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arielle Lasry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/arielle-lasry/avatar_hua85032a2de4de1427b551e59e4aa5e60_134655_270x270_fill_lanczos_center_3.png</url>
+      <title>Arielle Lasry</title>
+      <link>http://127.0.0.1:5501/authors/arielle-lasry/</link>
+    </image>
+    
+  </channel>
+</rss>

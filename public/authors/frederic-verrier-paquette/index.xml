@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Verrier Paquette   | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/frederic-verrier-paquette/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/frederic-verrier-paquette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frédéric Verrier Paquette  </description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/frederic-verrier-paquette/avatar_hu5dc338461984c3e48d6613d5c2bd168d_884188_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Frédéric Verrier Paquette  </title>
+      <link>http://127.0.0.1:5501/authors/frederic-verrier-paquette/</link>
+    </image>
+    
+  </channel>
+</rss>

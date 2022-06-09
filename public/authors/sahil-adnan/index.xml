@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sahil Adnan | Trace Lab</title>
+    <link>http://127.0.0.1:5501/authors/sahil-adnan/</link>
+      <atom:link href="http://127.0.0.1:5501/authors/sahil-adnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sahil Adnan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://127.0.0.1:5501/authors/sahil-adnan/avatar_hu08901e481aad0c7ef66acf7a9149f658_53982_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sahil Adnan</title>
+      <link>http://127.0.0.1:5501/authors/sahil-adnan/</link>
+    </image>
+    
+  </channel>
+</rss>

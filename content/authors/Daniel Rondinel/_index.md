@@ -7,7 +7,7 @@ interests:
   - sustainability in the built environment
   - urban metabolism circularity 
   - entropy in cities and thermodynamics
-  - systemic relation between urban and natural environment
+ 
 
 education:
   courses:

@@ -8,9 +8,7 @@ interests:
   - energy-efficient and healthy buildings
   - Biophilic architecture 
   - Ecological design
-  - Life cycle assessment (LCA)
-  - Indoor/outdoor environmental qualities
-  - Immersive interactive data visualization 
+
 
 
 education:

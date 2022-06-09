@@ -13,7 +13,7 @@ education:
     - course: (incoming) M.Arch (AP)
       institution:  Princeton University
     - course: B.Sc. (Architecture) 
-      institution: McGill University
+      institution: McGill University 
 
 
 social:
@@ -36,7 +36,7 @@ My personal research interests revolve around how tools of architectural product
 In parallel, I also collaborate with MOS Architects, based in NYC. 
 
 
-Currently Working on the projects : 
+Projects : 
 <a href='https://deft-stroopwafel-a0d849.netlify.app/project/data-homebase'  >Data Homebase </a>, 
 <a href='https://deft-stroopwafel-a0d849.netlify.app/project/circular-crd'  > Circular CRD</a>
 </br>

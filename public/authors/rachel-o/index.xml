@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachel O | Trace Lab</title>
-    <link>http://127.0.0.1:5501/authors/rachel-o/</link>
-      <atom:link href="http://127.0.0.1:5501/authors/rachel-o/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/authors/rachel-o/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/authors/rachel-o/index.xml" rel="self" type="application/rss+xml" />
     <description>Rachel O</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://127.0.0.1:5501/authors/rachel-o/avatar_hu15e6eb2f160ec714178c8df6573ba2d6_265748_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://trace.lab.mcgill.ca/authors/rachel-o/avatar_hu15e6eb2f160ec714178c8df6573ba2d6_265748_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Rachel O</title>
-      <link>http://127.0.0.1:5501/authors/rachel-o/</link>
+      <link>https://trace.lab.mcgill.ca/authors/rachel-o/</link>
     </image>
     
   </channel>

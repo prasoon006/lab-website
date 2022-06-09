@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Avi Friedman   | Trace Lab</title>
-    <link>http://127.0.0.1:5501/authors/dr-avi-friedman/</link>
-      <atom:link href="http://127.0.0.1:5501/authors/dr-avi-friedman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/authors/dr-avi-friedman/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/authors/dr-avi-friedman/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Avi Friedman  </description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://127.0.0.1:5501/authors/dr-avi-friedman/avatar_hu20419ec918e2a5b04125785fff2eb7b4_28174_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://trace.lab.mcgill.ca/authors/dr-avi-friedman/avatar_hu20419ec918e2a5b04125785fff2eb7b4_28174_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dr. Avi Friedman  </title>
-      <link>http://127.0.0.1:5501/authors/dr-avi-friedman/</link>
+      <link>https://trace.lab.mcgill.ca/authors/dr-avi-friedman/</link>
     </image>
     
   </channel>

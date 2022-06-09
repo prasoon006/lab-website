@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandre Bouffard  | Trace Lab</title>
-    <link>http://127.0.0.1:5501/authors/alexandre-bouffard/</link>
-      <atom:link href="http://127.0.0.1:5501/authors/alexandre-bouffard/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/authors/alexandre-bouffard/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/authors/alexandre-bouffard/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Bouffard </description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://127.0.0.1:5501/authors/alexandre-bouffard/avatar_hu618e5355d048942b191f0256e283b821_2484135_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://trace.lab.mcgill.ca/authors/alexandre-bouffard/avatar_hu618e5355d048942b191f0256e283b821_2484135_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Alexandre Bouffard </title>
-      <link>http://127.0.0.1:5501/authors/alexandre-bouffard/</link>
+      <link>https://trace.lab.mcgill.ca/authors/alexandre-bouffard/</link>
     </image>
     
   </channel>

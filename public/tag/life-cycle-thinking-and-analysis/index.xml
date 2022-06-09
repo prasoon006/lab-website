@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Cycle Thinking and Analysis | Trace Lab</title>
-    <link>http://127.0.0.1:5501/tag/life-cycle-thinking-and-analysis/</link>
-      <atom:link href="http://127.0.0.1:5501/tag/life-cycle-thinking-and-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/tag/life-cycle-thinking-and-analysis/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/tag/life-cycle-thinking-and-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Life Cycle Thinking and Analysis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 17:57:46 +0000</lastBuildDate>
     <image>
-      <url>http://127.0.0.1:5501/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
+      <url>https://trace.lab.mcgill.ca/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
       <title>Life Cycle Thinking and Analysis</title>
-      <link>http://127.0.0.1:5501/tag/life-cycle-thinking-and-analysis/</link>
+      <link>https://trace.lab.mcgill.ca/tag/life-cycle-thinking-and-analysis/</link>
     </image>
     
     <item>
       <title>DATA HOMEBASE</title>
-      <link>http://127.0.0.1:5501/project/data-homebase/</link>
+      <link>https://trace.lab.mcgill.ca/project/data-homebase/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/data-homebase/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/data-homebase/</guid>
       <description>&lt;p&gt;One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste.&lt;/p&gt;
 &lt;p&gt;However, effective CE decision-making requires robust, building data. Unfortunately, this is currently scattered and lacks standardization.&lt;/p&gt;
 &lt;p&gt;To overcome this barrier, for Round 1 of the Housing Supply Challenge, McGill University has proposed to develop ‘housing passports’ (HP) - standardized digital descriptions of residential building characteristics.&lt;/p&gt;

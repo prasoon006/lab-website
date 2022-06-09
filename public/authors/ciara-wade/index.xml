@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ciara Wade | Trace Lab</title>
-    <link>http://127.0.0.1:5501/authors/ciara-wade/</link>
-      <atom:link href="http://127.0.0.1:5501/authors/ciara-wade/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/authors/ciara-wade/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/authors/ciara-wade/index.xml" rel="self" type="application/rss+xml" />
     <description>Ciara Wade</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://127.0.0.1:5501/authors/ciara-wade/avatar_hu07d8788163fa85fd082046249c8873ac_1161487_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://trace.lab.mcgill.ca/authors/ciara-wade/avatar_hu07d8788163fa85fd082046249c8873ac_1161487_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ciara Wade</title>
-      <link>http://127.0.0.1:5501/authors/ciara-wade/</link>
+      <link>https://trace.lab.mcgill.ca/authors/ciara-wade/</link>
     </image>
     
   </channel>

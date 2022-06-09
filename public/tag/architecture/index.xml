@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture | Trace Lab</title>
-    <link>http://127.0.0.1:5501/tag/architecture/</link>
-      <atom:link href="http://127.0.0.1:5501/tag/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/tag/architecture/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/tag/architecture/index.xml" rel="self" type="application/rss+xml" />
     <description>Architecture</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 17:57:46 +0000</lastBuildDate>
     <image>
-      <url>http://127.0.0.1:5501/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
+      <url>https://trace.lab.mcgill.ca/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
       <title>Architecture</title>
-      <link>http://127.0.0.1:5501/tag/architecture/</link>
+      <link>https://trace.lab.mcgill.ca/tag/architecture/</link>
     </image>
     
     <item>
       <title>Circular CRD</title>
-      <link>http://127.0.0.1:5501/project/circular-crd/</link>
+      <link>https://trace.lab.mcgill.ca/project/circular-crd/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/circular-crd/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/circular-crd/</guid>
       <description>&lt;p&gt;Laying the foundation for constructive stakeholder engagement on improving construction, renovation and demolition (CRD) waste management. One such promising approach is that of circular economy which envisions a future where CRD waste is designed-out of the built environment by keeping construction materials in use.&lt;/p&gt;
 &lt;p&gt;The city of Montréal is one of many cities worldwide who strive to cut the amount of waste they generate and advance towards zero waste in an effort to meet the Paris Agreement goals. Construction, renovation and demolition (CRD) waste is a major contributor to urban waste streams but also an area where waste diversion and innovative waste management approaches could deliver significant reductions in waste. One such promising approach is that of circular economy which envisions a future where CRD waste is designed-out of the built environment by keeping construction materials in use. This research project seeks to answer three questions: (1) How best can CRD waste be eliminated?; (2) Which circular economy principles and methods could be effective in ensuring sustainable CRD material management and implementation for Montréal?; and (3) What kind of stakeholder partnerships are necessary to advance towards zero CRD waste? &lt;/p&gt;
 &lt;p&gt;These questions are in keeping with key principles outlined in Montréal&amp;rsquo;s master plan, titled « Montréal, objectif zéro déchet », to guide and enable CRD waste recovery. These principles involve (1) stimulating a circular economy and (2) mobilizing relevant stakeholders. To advance these principles, accessible and reliable data on the current status of CRD waste in Montréal is necessary. However, existing and emerging literature in the area of circular waste management is typically siloed, disconnected and fragmented making it difficult to access and therefore, to assist with informed, evidence-based decision-making. Data visualization offers a powerful potential means to create engagement with this data by relevant stakeholders. &lt;/p&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>DATA HOMEBASE</title>
-      <link>http://127.0.0.1:5501/project/data-homebase/</link>
+      <link>https://trace.lab.mcgill.ca/project/data-homebase/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/data-homebase/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/data-homebase/</guid>
       <description>&lt;p&gt;One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste.&lt;/p&gt;
 &lt;p&gt;However, effective CE decision-making requires robust, building data. Unfortunately, this is currently scattered and lacks standardization.&lt;/p&gt;
 &lt;p&gt;To overcome this barrier, for Round 1 of the Housing Supply Challenge, McGill University has proposed to develop ‘housing passports’ (HP) - standardized digital descriptions of residential building characteristics.&lt;/p&gt;
@@ -41,18 +41,18 @@
     
     <item>
       <title>Embodied Carbon &amp; the Built Environment</title>
-      <link>http://127.0.0.1:5501/project/embodied-carbon-and-the-built-environment/</link>
+      <link>https://trace.lab.mcgill.ca/project/embodied-carbon-and-the-built-environment/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/embodied-carbon-and-the-built-environment/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/embodied-carbon-and-the-built-environment/</guid>
       <description>&lt;p&gt;WRITE DESCRIPTION HERE&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sustainability Housing in a Circular Economy</title>
-      <link>http://127.0.0.1:5501/project/sustainability-housing-in-a-circular-economy/</link>
+      <link>https://trace.lab.mcgill.ca/project/sustainability-housing-in-a-circular-economy/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/sustainability-housing-in-a-circular-economy/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/sustainability-housing-in-a-circular-economy/</guid>
       <description>&lt;p&gt;WRITE DESCRIPTION HERE&lt;/p&gt;
 </description>
     </item>

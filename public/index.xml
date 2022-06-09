@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trace Lab</title>
-    <link>http://127.0.0.1:5501/</link>
-      <atom:link href="http://127.0.0.1:5501/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://trace.lab.mcgill.ca/</link>
+      <atom:link href="https://trace.lab.mcgill.ca/index.xml" rel="self" type="application/rss+xml" />
     <description>Trace Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 08:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://127.0.0.1:5501/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
+      <url>https://trace.lab.mcgill.ca/media/logo_hua2a2413b3e51b185977dd2eddf95b822_149821_300x300_fit_lanczos_3.png</url>
       <title>Trace Lab</title>
-      <link>http://127.0.0.1:5501/</link>
+      <link>https://trace.lab.mcgill.ca/</link>
     </image>
     
     <item>
       <title>Sorry, there are no positions available at this time. Thank you for your interest about research opportunities at TRACElab.</title>
-      <link>http://127.0.0.1:5501/opportunities/no-opportunity/</link>
+      <link>https://trace.lab.mcgill.ca/opportunities/no-opportunity/</link>
       <pubDate>Thu, 02 Jun 2022 08:30:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/opportunities/no-opportunity/</guid>
+      <guid>https://trace.lab.mcgill.ca/opportunities/no-opportunity/</guid>
       <description>&lt;div&gt; 
 &lt;/br&gt;
 &lt;div&gt;
@@ -29,17 +29,17 @@ Currently we do not have any open positions, however if you are interested in po
     
     <item>
       <title>Green Building Council Costa Rica - CICS Congress of Sustainable Cities</title>
-      <link>http://127.0.0.1:5501/talk/green-building-council-costa-rica-cics-congress-of-sustainable-cities/</link>
+      <link>https://trace.lab.mcgill.ca/talk/green-building-council-costa-rica-cics-congress-of-sustainable-cities/</link>
       <pubDate>Wed, 01 Jun 2022 08:30:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/green-building-council-costa-rica-cics-congress-of-sustainable-cities/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/green-building-council-costa-rica-cics-congress-of-sustainable-cities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circular CRD</title>
-      <link>http://127.0.0.1:5501/project/circular-crd/</link>
+      <link>https://trace.lab.mcgill.ca/project/circular-crd/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/circular-crd/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/circular-crd/</guid>
       <description>&lt;p&gt;Laying the foundation for constructive stakeholder engagement on improving construction, renovation and demolition (CRD) waste management. One such promising approach is that of circular economy which envisions a future where CRD waste is designed-out of the built environment by keeping construction materials in use.&lt;/p&gt;
 &lt;p&gt;The city of Montréal is one of many cities worldwide who strive to cut the amount of waste they generate and advance towards zero waste in an effort to meet the Paris Agreement goals. Construction, renovation and demolition (CRD) waste is a major contributor to urban waste streams but also an area where waste diversion and innovative waste management approaches could deliver significant reductions in waste. One such promising approach is that of circular economy which envisions a future where CRD waste is designed-out of the built environment by keeping construction materials in use. This research project seeks to answer three questions: (1) How best can CRD waste be eliminated?; (2) Which circular economy principles and methods could be effective in ensuring sustainable CRD material management and implementation for Montréal?; and (3) What kind of stakeholder partnerships are necessary to advance towards zero CRD waste? &lt;/p&gt;
 &lt;p&gt;These questions are in keeping with key principles outlined in Montréal&amp;rsquo;s master plan, titled « Montréal, objectif zéro déchet », to guide and enable CRD waste recovery. These principles involve (1) stimulating a circular economy and (2) mobilizing relevant stakeholders. To advance these principles, accessible and reliable data on the current status of CRD waste in Montréal is necessary. However, existing and emerging literature in the area of circular waste management is typically siloed, disconnected and fragmented making it difficult to access and therefore, to assist with informed, evidence-based decision-making. Data visualization offers a powerful potential means to create engagement with this data by relevant stakeholders. &lt;/p&gt;
@@ -51,9 +51,9 @@ Currently we do not have any open positions, however if you are interested in po
     
     <item>
       <title>DATA HOMEBASE</title>
-      <link>http://127.0.0.1:5501/project/data-homebase/</link>
+      <link>https://trace.lab.mcgill.ca/project/data-homebase/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/data-homebase/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/data-homebase/</guid>
       <description>&lt;p&gt;One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste.&lt;/p&gt;
 &lt;p&gt;However, effective CE decision-making requires robust, building data. Unfortunately, this is currently scattered and lacks standardization.&lt;/p&gt;
 &lt;p&gt;To overcome this barrier, for Round 1 of the Housing Supply Challenge, McGill University has proposed to develop ‘housing passports’ (HP) - standardized digital descriptions of residential building characteristics.&lt;/p&gt;
@@ -64,43 +64,43 @@ Currently we do not have any open positions, however if you are interested in po
     
     <item>
       <title>Embodied Carbon &amp; the Built Environment</title>
-      <link>http://127.0.0.1:5501/project/embodied-carbon-and-the-built-environment/</link>
+      <link>https://trace.lab.mcgill.ca/project/embodied-carbon-and-the-built-environment/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/embodied-carbon-and-the-built-environment/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/embodied-carbon-and-the-built-environment/</guid>
       <description>&lt;p&gt;WRITE DESCRIPTION HERE&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sustainability Housing in a Circular Economy</title>
-      <link>http://127.0.0.1:5501/project/sustainability-housing-in-a-circular-economy/</link>
+      <link>https://trace.lab.mcgill.ca/project/sustainability-housing-in-a-circular-economy/</link>
       <pubDate>Tue, 24 May 2022 17:57:46 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/project/sustainability-housing-in-a-circular-economy/</guid>
+      <guid>https://trace.lab.mcgill.ca/project/sustainability-housing-in-a-circular-economy/</guid>
       <description>&lt;p&gt;WRITE DESCRIPTION HERE&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Can biomaterials become the building blocks for the 21st Century?</title>
-      <link>http://127.0.0.1:5501/talk/can-biomaterials-become-the-building-blocks-for-the-21st-century/</link>
+      <link>https://trace.lab.mcgill.ca/talk/can-biomaterials-become-the-building-blocks-for-the-21st-century/</link>
       <pubDate>Thu, 05 May 2022 15:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/can-biomaterials-become-the-building-blocks-for-the-21st-century/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/can-biomaterials-become-the-building-blocks-for-the-21st-century/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022 Restruct Workshop - Talk on Big Data</title>
-      <link>http://127.0.0.1:5501/talk/2022-restruct-workshop-talk-on-big-data/</link>
+      <link>https://trace.lab.mcgill.ca/talk/2022-restruct-workshop-talk-on-big-data/</link>
       <pubDate>Fri, 15 Apr 2022 13:05:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/2022-restruct-workshop-talk-on-big-data/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/2022-restruct-workshop-talk-on-big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomaterials Report</title>
-      <link>http://127.0.0.1:5501/publication/biomaterials-report/</link>
+      <link>https://trace.lab.mcgill.ca/publication/biomaterials-report/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/publication/biomaterials-report/</guid>
+      <guid>https://trace.lab.mcgill.ca/publication/biomaterials-report/</guid>
       <description>&lt;p&gt;Building construction materials represent 11% of global carbon emissions and 28% of the annual buildings related CO2 emissions, and yet, the demand for construction materials continues to grow, especially in the rapidly urbanizing Global South. Biomaterials offer a key opportunity for decarbonizing the buildings and construction sector, through transitioning from current linear, extractive, and toxic construction practices towards circular, bio-based, renewable materials and construction methods for a sustainable future. While this transition has the potential to drastically reduce both the need for natural resources and the carbon footprint of urban growth, policy intervention is required to enable the sustainable development of biomaterials, contributing to 10 of the 17 SDGs.&lt;/p&gt;
 &lt;p&gt;Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.&lt;/p&gt;
 &lt;p&gt;To access the report, please  &lt;a href=&#39;https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&amp;fit=max&#39; &gt;  click here &lt;/a&gt;.&lt;/p&gt;
@@ -109,41 +109,41 @@ Currently we do not have any open positions, however if you are interested in po
     
     <item>
       <title>Circular Economy and the Built Environment - From Housing to Data</title>
-      <link>http://127.0.0.1:5501/talk/circular-economy-and-the-built-environment-from-housing-to-data/</link>
+      <link>https://trace.lab.mcgill.ca/talk/circular-economy-and-the-built-environment-from-housing-to-data/</link>
       <pubDate>Wed, 10 Nov 2021 13:05:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/circular-economy-and-the-built-environment-from-housing-to-data/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/circular-economy-and-the-built-environment-from-housing-to-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colloque Architecture et économie circulaire</title>
-      <link>http://127.0.0.1:5501/talk/colloque-architecture-et-economie-circulaire/</link>
+      <link>https://trace.lab.mcgill.ca/talk/colloque-architecture-et-economie-circulaire/</link>
       <pubDate>Wed, 10 Nov 2021 13:05:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/colloque-architecture-et-economie-circulaire/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/colloque-architecture-et-economie-circulaire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruct kick-off meeting</title>
-      <link>http://127.0.0.1:5501/talk/reconstruct-kick-off-meeting/</link>
+      <link>https://trace.lab.mcgill.ca/talk/reconstruct-kick-off-meeting/</link>
       <pubDate>Wed, 10 Nov 2021 13:05:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/talk/reconstruct-kick-off-meeting/</guid>
+      <guid>https://trace.lab.mcgill.ca/talk/reconstruct-kick-off-meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green Building Council Costa Rica - CICS Congress of Sustainable Cities</title>
-      <link>http://127.0.0.1:5501/news/green-building-council-costa/</link>
+      <link>https://trace.lab.mcgill.ca/news/green-building-council-costa/</link>
       <pubDate>Mon, 01 Jun 2020 08:30:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/news/green-building-council-costa/</guid>
+      <guid>https://trace.lab.mcgill.ca/news/green-building-council-costa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://127.0.0.1:5501/slides/example/</link>
+      <link>https://trace.lab.mcgill.ca/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/slides/example/</guid>
+      <guid>https://trace.lab.mcgill.ca/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -266,9 +266,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Circular Economy in the Built Environment</title>
-      <link>http://127.0.0.1:5501/publication/circular-economy-in-the-built-environment/</link>
+      <link>https://trace.lab.mcgill.ca/publication/circular-economy-in-the-built-environment/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/publication/circular-economy-in-the-built-environment/</guid>
+      <guid>https://trace.lab.mcgill.ca/publication/circular-economy-in-the-built-environment/</guid>
       <description>&lt;p&gt;Building construction materials represent 11% of global carbon emissions and 28% of the annual buildings related CO2 emissions, and yet, the demand for construction materials continues to grow, especially in the rapidly urbanizing Global South. Biomaterials offer a key opportunity for decarbonizing the buildings and construction sector, through transitioning from current linear, extractive, and toxic construction practices towards circular, bio-based, renewable materials and construction methods for a sustainable future. While this transition has the potential to drastically reduce both the need for natural resources and the carbon footprint of urban growth, policy intervention is required to enable the sustainable development of biomaterials, contributing to 10 of the 17 SDGs.&lt;/p&gt;
 &lt;p&gt;Yale Center for Ecosystems in Architecture (Yale CEA) and UNEP are launching a new report entitled “Biomaterials Supporting the Transition to a Circular Built Environment in the Global South”. The report explores the transformational socio-economic and environmental impacts that an accelerated transition to a bio-based, circular material economy could have, particularly for the Global South.&lt;/p&gt;
 &lt;!-- To access the report, please  &lt;a href=&#39;https://cdn.filepicker.io/api/file/9gIwl5XeSyi7BmJd0l4T?&amp;fit=max&#39; &gt;  click here &lt;/a&gt;. --&gt;</description>
@@ -276,27 +276,27 @@ $$&lt;/p&gt;
     
     <item>
       <title>Journal of Industrial Ecology</title>
-      <link>http://127.0.0.1:5501/publication/journal-of-industrial-ecology-copy/</link>
+      <link>https://trace.lab.mcgill.ca/publication/journal-of-industrial-ecology-copy/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/publication/journal-of-industrial-ecology-copy/</guid>
+      <guid>https://trace.lab.mcgill.ca/publication/journal-of-industrial-ecology-copy/</guid>
       <description>&lt;p&gt;Raugei, M., Keena, N., Novelli, N., Aly Etman, M., &amp;amp; Dyson, A. (2021). Life cycle assessment of an ecological living module equipped with conventional rooftop or integrated concentrating photovoltaics. Journal of Industrial Ecology, 25(5), 1207-1221.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Journal of Industrial Ecology</title>
-      <link>http://127.0.0.1:5501/publication/journal-of-industrial-ecology/</link>
+      <link>https://trace.lab.mcgill.ca/publication/journal-of-industrial-ecology/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/publication/journal-of-industrial-ecology/</guid>
+      <guid>https://trace.lab.mcgill.ca/publication/journal-of-industrial-ecology/</guid>
       <description>&lt;p&gt;Raugei, M., Keena, N., Novelli, N., Aly Etman, M., &amp;amp; Dyson, A. (2021). Life cycle assessment of an ecological living module equipped with conventional rooftop or integrated concentrating photovoltaics. Journal of Industrial Ecology, 25(5), 1207-1221.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1:5501/admin/config.yml</link>
+      <link>https://trace.lab.mcgill.ca/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:5501/admin/config.yml</guid>
+      <guid>https://trace.lab.mcgill.ca/admin/config.yml</guid>
       <description></description>
     </item>
     

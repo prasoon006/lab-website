@@ -3,11 +3,11 @@ title: "Mojtaba Parsaee "
 role: "Post-Doc, Project Manager"
 avatar_filename: avatar
 interests: 
-  - Circular economy 
-  - Low-carbon
-  - energy-efficient and healthy buildings
-  - Biophilic architecture 
-  - Ecological design
+  - Circular Economy 
+  - Low-Carbon
+  - Energy-Efficient and Healthy Buildings
+  - Biophilic Architecture 
+  - Ecological Design <br/><br/> &zwnj; 
 
 
 

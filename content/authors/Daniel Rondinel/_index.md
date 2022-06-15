@@ -4,9 +4,9 @@ role: "PhD Candidate "
 avatar_filename: avatar
 
 interests: 
-  - sustainability in the built environment
-  - urban metabolism circularity 
-  - entropy in cities and thermodynamics
+  - Sustainability in the Built Environment
+  - Urban Metabolism Circularity 
+  - Entropy in Cities and Thermodynamics  <br/><br/> &zwnj; 
  
 
 education:

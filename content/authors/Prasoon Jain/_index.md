@@ -4,10 +4,11 @@ role: "Research Assistant"
 avatar_filename: avatar
 
 
+
 interests:
   - Web Developemnt
-  - competitive programming
-  - Data structures and algorithms
+  - Competitive Programming
+  - Data Structures and Algorithms  <br/><br/> &zwnj; 
   
   
 social:

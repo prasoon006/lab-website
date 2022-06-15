@@ -9,7 +9,7 @@ interests:
   - Architecture
   - Urban Studies
   - Geography
-  - Public Health
+  - Public Health  <br/><br/> &zwnj; 
   
 
 education:

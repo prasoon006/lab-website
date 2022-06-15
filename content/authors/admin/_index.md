@@ -1,15 +1,18 @@
 ---
 title: Naomi Keena
-role: Assistant Professor
+role: Lab Director / Assistant Professor
 avatar_filename: avatar.jpg
 bio: Naomi Keena, architect and interdisciplinary researcher, is Assistant
   Professor at McGill University’s Peter Guo-hua Fu School of Architecture.
 interests:
   - Architecture and Design
-  - Socio-ecological  Design
+  - Socio-Ecological  Design
   - Data Visulisation
   - Circular Economy
-  - Sustainable Development
+  - Sustainable Development <br/><br/> &zwnj; 
+
+
+weight: "2"
 
 social:
   - icon: envelope
@@ -42,7 +45,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigator
+  - Members
 highlight_name: true
 ---
 

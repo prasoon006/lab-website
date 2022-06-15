@@ -7,7 +7,7 @@ interests:
   - Sustainable Architecture
   - Furniture Design
   - City Planning for High-Density Urban Landscapes
-  - Graphic Design and Visual Arts
+  - Graphic Design and Visual Arts  <br/><br/> &zwnj; 
 
 
 social:

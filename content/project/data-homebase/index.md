@@ -38,7 +38,7 @@ url_code: ""
 
 
 
-One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste. 
+One approach to tackling housing supply is the circular economy (CE). CE is when materials and buildings are kept in use for as long as possible to reduce waste and promote sustainability, and end of life building material is reused, rather than turned to waste 
 
 However, effective CE decision-making requires robust, building data. Unfortunately, this is currently scattered and lacks standardization. 
 

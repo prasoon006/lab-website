@@ -5,11 +5,11 @@ avatar_filename: avatar
 
 
 interests:
-  - Circular economy
+  - Circular Economy
   - Data Science
   - Life Cycle Assessment (LCA)
-  - Sustainable agriculture
-  - Clean energy
+  - Sustainable Agriculture
+  - Clean Energy  <br/><br/> &zwnj; 
 
 education:
   courses:

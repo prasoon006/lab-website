@@ -6,7 +6,7 @@ event_url: https://www.youtube.com/watch?v=6ZROYFc-h3U
 
 location: Youtube
 address:
-  # street: 450 Serra Mall
+  # street: 450 Serra Mall 
   # city: Stanford
   # region: CA
   # postcode: '94305'

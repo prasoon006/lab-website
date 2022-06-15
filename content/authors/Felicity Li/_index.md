@@ -8,7 +8,7 @@ interests:
   - Life Cycle Assessment (LCA)
   - Sustainable Architecture
   - Heritage Conservation
-  - Graphic Design
+  - Graphic Design <br/><br/> &zwnj; 
 social:
   - icon: envelope
     icon_pack: fas

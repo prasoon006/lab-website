@@ -6,7 +6,7 @@ interests:
   - Architectural Design
   - Socio-Ecological Design
   - Social Relations and Collaboration in the Housing Sector 
-  - Degrowth 
+  - Degrowth  <br/><br/> &zwnj; 
 
 education:
   courses:

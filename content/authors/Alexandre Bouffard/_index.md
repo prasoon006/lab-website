@@ -5,11 +5,11 @@ avatar_filename: avatar
 
 
 interests:
-  - Socio-metabolism
+  - Socio-Metabolism
   - Architectural Design
   - Construction
-  - Industrial complex
-  - Global economy and financial systems
+  - Industrial Complex
+  - Global Economy and Financial Systems <br/><br/> &zwnj; 
 
 education:
   courses:

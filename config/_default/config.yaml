@@ -4,11 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Trace Lab # Website name
-baseURL: 'https://trace.lab.mcgill.ca/' # Website URL
+baseURL: 'http://localhost:1313/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
+
+
 
 defaultContentLanguage: en
 hasCJKLanguage: false
@@ -69,3 +71,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+

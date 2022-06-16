@@ -28,7 +28,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: naomi.keena@mcgill.ca
+  # email: naomi.keena@mcgill.ca
   address:
     street: Room 305 Macdonald-Harrington Building 815 Sherbrooke Street West Montreal, Quebec
 

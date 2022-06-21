@@ -5,7 +5,10 @@ avatar_filename: avatar
 
 
 interests:
-  - 
+  - Sustainability
+  - Historical Conservation
+  - Accessibility through Design
+  - Inclusivity
 
 education:
   courses:

@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Inter:wght@500"
+google_fonts = "family=Inter:wght@400"
 
 # Font families
 heading_font = "Inter"

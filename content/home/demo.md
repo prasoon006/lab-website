@@ -1,6 +1,6 @@
 ---
 widget: slider 
-weight: 1  
+weight: 20
 active: true
   # Publish this section?
 headless: true 
@@ -8,7 +8,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '43vw'
+  slide_height: '45vw'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: false
@@ -24,26 +24,26 @@ content:
         position: center
         color: '#000000'
         brightness: 1
-        media: slider-1.png
+        media: testgif2.gif
 
-    - title: 
-      content:
-      align: center
-      background:
-        position: center
-        color: '#000000'
-        brightness: 1
-        media: slider-22.png
-        size: cover
+    # - title: 
+    #   content:
+    #   align: center
+    #   background:
+    #     position: center
+    #     color: '#000000'
+    #     brightness: 1
+    #     media: testgif2.gif
+    #     size: cover
     
-    - title: 
-      content: 
-      align: right
-      background:
-        position: center
-        color: '#000000'
-        brightness: 1
-        media: slider-3.png
+    # - title: 
+    #   content: 
+    #   align: right
+    #   background:
+    #     position: center
+    #     color: '#000000'
+    #     brightness: 1
+    #     media: slider-3.png
       # link:
       #   icon: graduation-cap
       #   icon_pack: fas

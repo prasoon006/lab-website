@@ -2,6 +2,14 @@
 title: "Rachel O"
 role: "Research Assistant"
 avatar_filename: avatar
+
+
+
+interests:
+  - Sustainable Construction
+  - Data Visualisation  
+
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -11,7 +19,6 @@ user_groups:
   - Members
 
 
-interests:
  
 
 education:

@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://trace.lab.mcgill.ca/sitemap.xml

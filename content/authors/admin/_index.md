@@ -36,10 +36,15 @@ organizations:
 education:
   courses:
     - course:  Ph.D. (Architectural Sciences)
+      institution:   Rensselaer Polytechnic Institute (RPI)
     - course: M.Arch.II (Architectural Sciences)
+      institution:   Rensselaer Polytechnic Institute (RPI)
     - course: M.Sc.(Architecture)
+      institution:   Pratt Institute
     - course: B.Arch.(Architecture)
+      institution:   University College, Dublin
     - course: B.Sc.(Architecture)
+      institution:   University College, Dublin
 
 
 email: ""

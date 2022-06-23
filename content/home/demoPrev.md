@@ -65,7 +65,7 @@ css_style="font-family:Inter"
   .lg{
     display:none;
   }
-  .sm{
+  .combine-sm{
     display:hidden;
   }
   .combine-sm{
@@ -75,7 +75,7 @@ css_style="font-family:Inter"
 }
 
 @media screen and (min-width: 800px) {
-  .sm{
+  .combine-sm{
     display:none;
   }
   .lg{
@@ -91,11 +91,13 @@ css_style="font-family:Inter"
 
 
 <div class='combine-sm'>
-<div class='sm' style="align:center; padding-top:100px; font-size:12vh; text-align:center; font-family:Inter; text-shadow: #928282e6 -10px -15px 5px;">TRACE Lab
+
+<img src='/media/trace_mob.png'>
+<!-- <div class='sm' style="align:center; padding-top:100px; font-size:12vh; text-align:center; font-family:Inter; text-shadow: #928282e6 -10px -15px 5px;">TRACE Lab
 </div>
 <div  class='sm'  style="align:center; font-size:2vh; text-align:center; font-family:Inter; ">
 Think-tank and Research in Architecture and Circular Economy lab
-</div>
+</div> -->
 </div>
 
 

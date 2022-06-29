@@ -77,7 +77,7 @@ css_style="font-family:Inter"
 @media screen and (min-width: 800px) {
   .combine-sm{
     display:none;
-  }
+  }     
   .lg{
     display:hidden;
   }

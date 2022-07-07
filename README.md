@@ -5,6 +5,8 @@
 The images specific to items such as profile image of a author, project or talk image will go to the specific folder of that item. The name of image for the author should be "avatar" with .png or .jpg extension. For events and projects name should be featured with .png or .jpg extension. 
 Images used in the website such as background images or logo or icon will go to /static/media and /assets/media/ both the folders. 
 
+
+
 ### Add Content
 
 #### All the important/required content is avaiable in /content folder which include following folders :-
@@ -17,8 +19,9 @@ For opportunities, the current no-opportunity is also a indivisual item, so if y
 
 /home folder contains the items which needs to be displayed in the home page. demo.md , demoNext.md and demoPrev.md are displayed on the home screen. The actual size is given inside of these folder. 
 
-### Building the Site locally
 
+
+### Building the Site locally
 
 Step-1 : Install hugo on your system, you can find steps in the below article. 
 https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/
@@ -26,12 +29,14 @@ https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/
 Step-2 : Clone the repository
 command git clone https://github.com/McGill-TRACE-lab/TRACElab-website.git
 Make sure you are the owner or have access to this repository. 
+If still you are not able to clone, try this command  git clone https://yourgithubusername@github.com/McGill-TRACE-lab/TRACElab-website.git
 
 Step-3 : After cloning, move inside TRACElab-website folder. 
 
 Step-4 : Run hugo server, if you have installed hugo succesfully, you can see the website running on the port 1313. http://localhost:1313
 
 Make any changes you want, you can see the live changes in the website on the port 1313. 
+
 
 
 #### If you face below mentioned error

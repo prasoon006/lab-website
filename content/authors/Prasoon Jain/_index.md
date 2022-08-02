@@ -1,6 +1,6 @@
 ---
 title: "Prasoon Jain "
-role: "Research Assistant"
+role: "RA: Software Developer"
 avatar_filename: avatar
 
 

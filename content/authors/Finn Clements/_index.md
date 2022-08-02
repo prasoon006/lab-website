@@ -1,6 +1,6 @@
 ---
 title: "Finn Clements "
-role: "Research Assistant"
+role: "RA: UI/UX, front-end design "
 avatar_filename: avatar
 
 interests:

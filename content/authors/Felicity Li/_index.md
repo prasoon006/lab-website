@@ -1,6 +1,6 @@
 ---
 title: "Felicity Li "
-role: "Research Assistant"
+role: "RA: BIM"
 avatar_filename: avatar
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Madeline Mussio "
-role: "Research Assistant"
+role: "RA: Semantic Web "
 avatar_filename: avatar
 
 

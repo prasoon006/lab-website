@@ -1,6 +1,6 @@
 ---
 title: "Daniel Rondinel "
-role: "PhD Candidate "
+role: "PhD Candidate, Project Manager"
 avatar_filename: avatar
 
 interests: 

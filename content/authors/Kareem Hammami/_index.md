@@ -1,6 +1,6 @@
 ---
 title: "Kareem Hammami "
-role: "Research Assistant"
+role: "RA: GIS"
 avatar_filename: avatar
 
 interests: 

@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: slider 
 weight: 20
 active: true
@@ -24,7 +24,7 @@ content:
         position: center
         color: '#000000'
         brightness: 1
-        media: testgif2.gif
+        media: animation.gif
 
     # - title: 
     #   content:
@@ -51,4 +51,4 @@ content:
       #   url: ../contact/
 
 
----
+--- -->

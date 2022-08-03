@@ -92,7 +92,7 @@ css_style="font-family:Inter"
 
 <div class='combine-sm'>
 
-<img src='/media/trace_mob.png'>
+<img src='/media/animation.gif'>
 <!-- <div class='sm' style="align:center; padding-top:100px; font-size:12vh; text-align:center; font-family:Inter; text-shadow: #928282e6 -10px -15px 5px;">TRACE Lab
 </div>
 <div  class='sm'  style="align:center; font-size:2vh; text-align:center; font-family:Inter; ">
@@ -102,7 +102,7 @@ Think-tank and Research in Architecture and Circular Economy lab
 
 
 <div class='lg'>
-<img src='/media/slider1.png'>
+<img src='/media/animation.gif'>
 </div>
 
 

@@ -20,15 +20,15 @@ content:
   # https://www.google.com/recaptcha/admin/create
 
   # Email form provider
-  form:
-    provider: formspree
-    formspree: 
-      id: xdobbjjv
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: formspree
+  #   formspree: 
+  #     id: xdobbjjv
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
-  # email: naomi.keena@mcgill.ca
+  email: trace.lab@mcgill.ca
   address:
     street: Room 305 Macdonald-Harrington Building 815 Sherbrooke Street West Montreal, Quebec
 

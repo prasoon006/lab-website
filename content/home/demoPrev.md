@@ -83,7 +83,7 @@ css_style="font-family:Inter"
   }
 
   .lg{
-    height:95vh;
+    height:90vh;
     align:center;
   }
 }

@@ -1,10 +1,10 @@
 ---
-title:  2022 Restruct Workshop - Talk on Big Data
+title:  2022 RESTRUCT Interactive Workshop -  Big Data 
 
 event: University of Arizona- 2022 Restruct Workshop - Talk on Big Data
 event_url: "https://restruct.arizona.edu/workshops-symposia/upcoming-workshops-symposia"
 
-location: Youtube
+location: University of Arizona
 address:
   # street: 450 Serra Mall
   # city: Stanford
@@ -12,15 +12,15 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: RESTRUCT is a university-wide strategic initiative for coalescing interdisciplinary expertise to address emerging societal issues such as environmental, socio-economic, and ecological challenges to inform potential solutions or processes within the constructed environment for equitable adaptation and change.
+summary: Dr. Keena's research on Big Data and it's role within architectural design and the built environment process, contributed to the RESTRUCT interactive workshop showcased on outdoor kiosks at the University of Arizona
 
 
-abstract:  Description
+abstract:  RESTRUCT, directed by Prof. Aletheia Ida, is a University of Arizona-wide strategic initiative for coalescing interdisciplinary expertise to address emerging societal issues such as environmental, socio-economic, and ecological challenges to inform potential solutions or processes within the constructed environment for equitable adaptation and change. Dr. Keena's research on Big Data and it's role within architectural design and the built environment process, contributed to the interactive workshop showcased on outdoor kiosks on the Main mall of the Alumni Plaza at University of Arizona. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-15T13:05:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date: '2022-04-11T13:05:00Z'
+date_end: '2022-04-15T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -40,7 +40,7 @@ image:
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
-url_video: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

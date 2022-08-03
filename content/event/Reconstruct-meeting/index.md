@@ -1,10 +1,10 @@
 ---
-title: Reconstruct kick-off meeting
+title: Data and the Built Environment - ReCONstruct Kick-off Event
 
-event: Reconstruct kick-off meeting
+event: Data and the Built Environment - ReCONstruct Kick-off Event
 event_url: "#"
 
-location: Youtube
+location: Online Event
 address:
   # street: 450 Serra Mall
   # city: Stanford
@@ -15,7 +15,7 @@ address:
 summary: short description
 
 
-abstract:  Description
+abstract:  As part of the ReCONstruct Project Kick-off Event, led by Prof Michael Jemtrud (PI), Dr Keena presented on the current state of the use of data within the built environment process (BEP) to measure or understanding buildings on a global scale. Why is it important data mapping important? This presentation oulined how it is a key component i in achieving the Paris agreement goals towards decarbonizing the built environment. The Data Homebase tool was presented and it's relationship to the Housing Supply Challenge in Canada was outlined particularly it's goal of achieve sustinable and affordable housing via a circular economy apporach. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

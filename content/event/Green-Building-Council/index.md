@@ -1,10 +1,10 @@
 ---
 title: Green Building Council Costa Rica - CICS Congress of Sustainable Cities
 
-event: Green Building Council Costa Rica
+event: Green Building Council Costa Rica - CICS Congress of Sustainable Cities
 event_url: https://cics.gbccr.org/
 
-location: Youtube
+location: Online Event
 address:
   # street: 450 Serra Mall
   # city: Stanford
@@ -12,14 +12,14 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: Transformation towards a more sustainable world. We invite you to join the change and be an active participant in the IX edition of the International Congress of Sustainable Cities, which will take place from June 1 to 3, 2022, at the Crowne Plaza Corobicí.
+summary: The CICS Congress addresses transformation towards a more sustainable world. It invited TRACE lab to  join, present and actively participate in the IX edition of the International Congress of Sustainable Cities, from June 1 to 3, 2022, in Costa Rica
 
 
-abstract: The CICS stands out with the Declaration of Public Interest, since its first edition in 2014. The presence of the public sector in the people of high hierarchies, as well as the private sector, with top-level decision makers and world-renowned experts, differentiate the CICS
+abstract: The Green Building Council Costa Rica hosted the 9th CICS Congress of Sustainable Cities to bring public sector, private industry stakeholders, top-level decision makers, world-renowned expertsand  CICS members together to dicuss and make-actionable transforamtion towards more sustinable cities worldwide. The conference covered sessions on built environment decarbonization, market- transforming policies, health and well-being with social responsibility, and stakeholders developing sustainable cities. Dr. Keena was an invited plenary discussion panelist and presenter for two sessions on the topic of 'Decarbonization of the Built Environment'. Her presentation and panel exchange focused on the work of TRACE lab  in collaboration with Yale CEA on the role of biomaterials,  life cycle impact methodologies, and challenges of data availability in considering pathways towards low-carbon building and urban ecosystems.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-01T08:30:00Z'
+date: '2022-06-01T10:30:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

@@ -2,7 +2,7 @@
 title: Circular Economy Solutions Dialogues (CESD) 2022
 
 event: Circular Economy Solutions Dialogues (CESD) 2022
-event_url: https://greentechknowledgehub.de/events/deep-dive-webinar-circular-solutions-urban-built-environment-construction-demolition-waste
+event_url: "https://greentechknowledgehub.de/events/deep-dive-webinar-circular-solutions-urban-built-environment-construction-demolition-waste"
 
 location: Online event
 address:
@@ -11,12 +11,11 @@ address:
   # region: CA
   # postcode: '94305'
   # country: United States
-summary: The CESD Deep Dive Webinar is part of the Circular Economy Solutions Dialogues (CESD) series, an initiative launched by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in cooperation with the Global Solutions Initiative (GSI). 
+summary: The CESD Deep Dive Webinar is part of the Circular Economy Solutions Dialogues (CESD) series, an initiative launched by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in cooperation with the Global Solutions Initiative (GSI).
 
 
 
-
-abstract: Urban areas are at the center of the sustainability agenda. Half of the world population lives in cities today, which makes them vital environments for economic growth. At the same time, it has been reported that cities account for between 60 per cent of resources used and 70 per cent of global carbon emission (UN, 2022). Hence, they have a major role to play in paving the road to sustainable development and implementing the circular economy. Cities can be seen as laboratories where innovative approaches can be tested, and the biodiversity-energy-food-water-climate nexus can be implemented with a circular perspective. 
+abstract: Urban areas are at the center of the sustainability agenda. Half of the world population lives in cities today, which makes them vital environments for economic growth. At the same time, it has been reported that cities account for between 60 per cent of resources used and 70 per cent of global carbon emission (UN, 2022). Hence, they have a major role to play in paving the road to sustainable development and implementing the circular economy. Cities can be seen as laboratories where innovative approaches can be tested, and the biodiversity-energy-food-water-climate nexus can be implemented with a circular perspective.......Daniel Rondinel, PhD student at TRACE lab, discussed his research on 'C&D Waste Management in developing countries' with a focus on construction and demolition waste in Lima, Peru and oppertunities for the implementation of circular economy strategies. 
 
 
 
